@@ -7,3 +7,4 @@ Pour tester une requête post par exemple, il faudra taper dans le champ URL de 
 
 Merci de remplacer "votreDossier" par le dossier dans lequel se trouve votre fichier serveurREST.php
 
+Veillez à modifier les informations de votre base de données locale dans le fichier config.php afin de ne pas avoir d'erreurs.
